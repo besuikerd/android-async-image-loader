@@ -1,7 +1,7 @@
 android-asyncimageloader
 ========================
 
-Allows asynchronous image loading possible for android imageviews
+makes asynchronous image loading possible for android.
 
 ##Usage
 -   Create a new ImageLoaderManager (DefaultImageLoaderManager is the default implementation)
